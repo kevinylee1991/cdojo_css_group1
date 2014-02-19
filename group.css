@@ -1,0 +1,24 @@
+#article{
+	display: inline-block;
+	width: 600px;
+}
+
+h3{
+	margin: 0;
+	font-family: sans-serif;
+	color: blue;
+}
+
+p{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.date{
+	margin-bottom: 10px;
+}
+
+#article span{
+	color:blue;
+	font-style: italic;
+}
